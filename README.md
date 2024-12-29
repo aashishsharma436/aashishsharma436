@@ -1,13 +1,15 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 # Hi 👋, I'm Aashish Sharma
   
-A passionate Developer from India with a keen interest in Software Engineering, and a detail-oriented and organized professional with strong problem-solving skills. Thrives under tight deadlines, collaborates well in teams, and is eager to learn and adapt quickly. Ready to contribute to company success..
+A passionate Developer from India with a keen interest in Software Engineering, and a detail-oriented and organized professional with strong problem-solving skills. Thrives under tight deadlines, collaborates well in teams, and is eager to learn and adapt quickly. Ready to contribute to company success.
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashish%20Sharma-blue)](https://www.linkedin.com/in/5448aashishsharma/)
 [![GitHub](https://img.shields.io/badge/GitHub-aashishsharma436-black)](https://github.com/aashishsharma436)
 
-## 🌱 I’m currently learning:
-- Cloud Infrastructure with AWS
-- Machine Learning and AI
+## 🌱 I’m currently learning  **Cloud Infrastructure with AWS, Machine Learning and AI**
 
 ## 👯 I’m looking to collaborate on:
 - Open Source Projects
