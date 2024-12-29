@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 # Hi 👋, I'm Aashish Sharma
   
 A passionate Developer from India with a keen interest in Software Engineering, and a detail-oriented and organized professional with strong problem-solving skills. Thrives under tight deadlines, collaborates well in teams, and is eager to learn and adapt quickly. Ready to contribute to company success.
