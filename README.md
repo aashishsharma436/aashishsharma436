@@ -1,6 +1,5 @@
-# MasterHead
-
-Hi 👋, I'm Aashish Sharma  
+# Hi 👋, I'm Aashish Sharma
+  
 A passionate Developer from India with a keen interest in Software Engineering, and a detail-oriented and organized professional with strong problem-solving skills. Thrives under tight deadlines, collaborates well in teams, and is eager to learn and adapt quickly. Ready to contribute to company success..
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashish%20Sharma-blue)](https://www.linkedin.com/in/5448aashishsharma/)
