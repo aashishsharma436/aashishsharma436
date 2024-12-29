@@ -11,7 +11,7 @@ A passionate Developer from India with a keen interest in Software Engineering, 
 
 ## 🌱 I’m currently learning  
 - Cloud Infrastructure with AWS
-- Machine Learning and AI**
+- Machine Learning and AI
 
 ## 👯 I’m looking to collaborate on:
 - Open Source Projects
